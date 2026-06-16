@@ -1,7 +1,7 @@
 export const members = [
   {
     id: 'me',
-    name: '我',
+    name: '小恒',
     avatar: '🏃‍♂️',
     initialWeight: 78,
     currentWeight: 74.5,
@@ -12,7 +12,7 @@ export const members = [
   },
   {
     id: 'dad',
-    name: '爸爸',
+    name: '阿明',
     avatar: '🚴‍♂️',
     initialWeight: 82,
     currentWeight: 79.2,
@@ -23,7 +23,7 @@ export const members = [
   },
   {
     id: 'mom',
-    name: '妈妈',
+    name: '花花',
     avatar: '🧘‍♀️',
     initialWeight: 63,
     currentWeight: 60.8,

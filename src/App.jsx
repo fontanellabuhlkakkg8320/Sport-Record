@@ -22,8 +22,8 @@ export default function App() {
   return (
     <div className="min-h-screen bg-[radial-gradient(circle_at_top,#dff5ff_0%,#f8fdff_42%,#eaf8ff_100%)]">
       <Header />
-      <main className="mx-auto grid max-w-5xl gap-6 px-4 py-6 md:grid-cols-[1.1fr_0.9fr]">
-        <section className="grid gap-4">
+      <main className="mx-auto grid max-w-5xl gap-8 px-4 py-7 sm:px-5 sm:py-8 md:grid-cols-[1.1fr_0.9fr]">
+        <section className="grid gap-5 sm:gap-6">
           <div>
             <p className="text-sm font-semibold text-sky-600">家庭成员</p>
             <h2 className="text-2xl font-bold text-slate-800">今天也一起动起来</h2>
